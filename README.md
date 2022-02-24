@@ -5,3 +5,6 @@
 
 ### Codequality
 [![Valgrind](https://github.com/RaviTejagatti/M1-project-m1/actions/workflows/codequality.yml/badge.svg)](https://github.com/RaviTejagatti/M1-project-m1/actions/workflows/codequality.yml)
+
+### Valgrind
+[![cppcheck-action](https://github.com/RaviTejagatti/M1-project-m1/actions/workflows/Cpp.yml/badge.svg)](https://github.com/RaviTejagatti/M1-project-m1/actions/workflows/Cpp.yml)
